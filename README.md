@@ -42,5 +42,4 @@ The application will run on `http://localhost:5173` (or another port, if specifi
 ## Notes
 
 - Replace `<repository-url>` and `<project-folder>` with the appropriate values.
-- Customize the design as needed, but ensure it closely matches the original homepage layout.
 
